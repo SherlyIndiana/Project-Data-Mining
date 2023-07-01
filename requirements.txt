@@ -2,5 +2,6 @@ pandas==2.0.3
 numpy==1.24.2
 streamlit
 matplotlib
+imblearn
 scikit-learn
 pip==22.3.1
