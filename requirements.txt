@@ -3,5 +3,5 @@ numpy==1.24.2
 streamlit
 matplotlib
 scikit-learn
-warnings
+warnings==7.4.0
 pip==22.3.1
