@@ -1,0 +1,5 @@
+import streamlit as st
+
+def app():
+    st.title("Prediksi Potensi Nasabah Bank Membuka Simpanan Deposito Berjangka")
+    st.write ('Deposito berjangka merupakan sumber pendapatan utama bagi sebuah bank. Deposito berjangka adalah investasi tunai yang diadakan di lembaga keuangan. Uang Anda diinvestasikan untuk tingkat bunga yang disepakati selama jangka waktu atau jangka waktu tertentu. Kampanye pemasaran melalui telepon masih tetap menjadi salah satu cara paling efektif untuk menjangkau orang-orang. Namun, mereka membutuhkan investasi besar menyewa pusat call center untuk benar-benar menjalankan kampanye ini. Oleh karena itu, sangat penting untuk mengidentifikasi pelanggan yang paling mungkin berkonversi terlebih dahulu sehingga mereka dapat ditargetkan secara khusus melalui panggilan. Data tersebut terkait dengan kampanye pemasaran langsung (panggilan telepon) dari lembaga perbankan Portugis.')
